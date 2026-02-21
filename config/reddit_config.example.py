@@ -1,0 +1,8 @@
+# Reddit API Credentials
+REDDIT_CLIENT_ID = "your_client_id_here"
+REDDIT_CLIENT_SECRET = "your_client_secret_here"
+REDDIT_USER_AGENT = "your_user_agent_here"
+
+# Optional: Reddit User Credentials (if needed for authentication)
+REDDIT_USERNAME = "your_username_here"
+REDDIT_PASSWORD = "your_password_here"

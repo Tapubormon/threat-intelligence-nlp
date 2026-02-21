@@ -1,0 +1,9 @@
+praw
+requests
+beautifulsoup4
+lxml
+pandas
+trafilatura
+contractions
+selenium
+webdriver-manager
